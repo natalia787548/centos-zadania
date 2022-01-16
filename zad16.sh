@@ -1,5 +1,5 @@
 #!/bin/bash
-cd~
+cd ~
 
 echo "podaj nazwe uzytkownika" 
 read NAME
